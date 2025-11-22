@@ -1,5 +1,0 @@
-{
-  "name": "LyricalFloat",
-  "description": "Offline lyrics manager with floating overlay support. Import your JSON song libraries and view dual-language lyrics seamlessly.",
-  "requestFramePermissions": []
-}
