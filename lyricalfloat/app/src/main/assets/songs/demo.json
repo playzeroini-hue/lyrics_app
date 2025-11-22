@@ -1,0 +1,26 @@
+
+{
+  "song_info": {
+    "title": "Sweet Little Lies",
+    "artist": "bülow",
+    "genre": "Pop"
+  },
+  "order": 0,
+  "lyrics": [
+    {
+      "section": "Chorus",
+      "lines": [
+        { "en": "Sweet little lies", "ko": "달콤한 작은 거짓말들" },
+        { "en": "I love, I love, I love", "ko": "난 사랑해, 난 사랑해" },
+        { "en": "Tell me sweet little lies", "ko": "내게 달콤한 거짓말을 해줘" }
+      ]
+    },
+    {
+      "section": "Verse 1",
+      "lines": [
+        { "en": "You tell me that you want me", "ko": "넌 나를 원한다고 말해" },
+        { "en": "But you don't know if you need me", "ko": "하지만 넌 네가 날 필요한지 몰라" }
+      ]
+    }
+  ]
+}
